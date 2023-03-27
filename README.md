@@ -1,3 +1,1 @@
-# demo-printf
-Demo repo
-Doing hard things
+Demo repo Doing hard things
