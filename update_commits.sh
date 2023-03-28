@@ -11,7 +11,7 @@ top_count=$(echo "$counts" | head -n1 | awk '{print $1}')
 
 # create a dummy commit to update README.md
 echo "Updating README.md"
-echo "# Randomly Generated Commits" >> README.md
+echo "# Updating README" >> README.md
 git add README.md
 git commit -m "Updating README.md"
 
