@@ -19,7 +19,7 @@ git commit -m "Updating README.md"
 for i in {1..15}
 do
   # generate a random delay between 1 and 60 seconds
-  delay=$(shuf -i 1-60 -n 1)
+  delay=$(shuf -i 1-10 -n 1)
   sleep $delay
 
   # add a new line to README.md

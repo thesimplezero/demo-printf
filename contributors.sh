@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the path to the repository
-REPO_PATH="/home/dvoid/Documents/alx/dvoid/EricPrintf"
+REPO_PATH="/home/dvoid/Documents/alx/dvoid/demo-printf"
 
 # Change into the repository directory
 cd $REPO_PATH
